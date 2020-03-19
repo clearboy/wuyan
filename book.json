@@ -31,7 +31,7 @@
 	    "-highlight",
 	    "baidu",
 	    "sitemap",
-	    "latex-codecogs",
+	    "latex-codecogs"
 	  ],		
 	  "pluginsConfig": {
 	  	"hide-element": {
@@ -45,7 +45,7 @@
             "copyright":"Copyright &copy xywang@xywang.org 2020",
             "modify_label": "该文章修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
-      }
+      },
       "sharing": {
              "douban": true,
              "facebook": true,
@@ -59,8 +59,7 @@
                "douban", "facebook", "google", "instapaper", "linkedin","twitter", "weibo", 
                "messenger","qq", "qzone","viber","whatsapp"
            ]
-       }
-
+       },
         
 	    "disqus": {
 	      "shortName": "wuyan"
