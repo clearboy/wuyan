@@ -3,8 +3,8 @@
 * [前言](README.md)
 
 ## [第一章：如何读《物演通论》](chapter1/README.md)
-  - [01](chapter1/No.01.md) 
-  - [从被动学习到主动研究](chapter1/No.02.md)
+  - [01.从被动学习到主动研究](chapter1/No.01.md)
+  - [02：社会哲学研究什么？](chapter1/No.02.md)
 
 ## [第二章：理解社会个体](chapter2/README.md)
   - [生命是什么？](chapter2/No.03.md)
