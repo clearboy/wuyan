@@ -2,13 +2,10 @@
     "root": "./docs",
     "title": "晓钰说物演通论",
     "author": "王晓钰",
-    "isbn": null,
 
     "description": "123",
     "language": "zh-hans",
     
-    "variables": {},
-
     "links" : {
 	    "sidebar" : {
 	    		"王晓钰介绍": "http://xywang.org",
