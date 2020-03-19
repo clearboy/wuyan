@@ -9,9 +9,74 @@
     "links" : {
 	    "sidebar" : {
 	    		"王晓钰介绍": "http://xywang.org",
-	        "Home" : "http://wuyan.xywang.org"
+	        "晓钰说物演通论" : "http://wuyan.xywang.org"
 	    }
-		}
+		},
+	  "plugins": [
+	    "hide-element",
+	    "back-to-top-button",
+	    "chapter-fold",
+	    "splitter",
+      "-lunr", 
+      "-search", 
+      "search-pro",
+      "insert-logo",
+      "pageview-count",
+      "tbfed-pagefooter",
+	    "-sharing", "sharing-plus",
+	    "disqus",
+	    "github",
+	    "editlink",
+	    "prism",
+	    "-highlight",
+	    "baidu",
+	    "sitemap",
+	    "latex-codecogs",
+	  ],		
+	  "pluginsConfig": {
+	  	"hide-element": {
+            "elements": [".gitbook-link"]
+        },
+      "insert-logo": {
+        "url": "images/王晓钰头像.jpg",
+        "style": "background: none; max-height: 30px; min-height: 30px"
+      },
+      "tbfed-pagefooter": {
+            "copyright":"Copyright &copy xywang@xywang.org 2020",
+            "modify_label": "该文章修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+      }
+      "sharing": {
+             "douban": true,
+             "facebook": true,
+             "google": true,
+             "pocket": true,
+             "qq": true,
+             "qzone": true,
+             "twitter": true,
+             "weibo": true,
+          "all": [
+               "douban", "facebook", "google", "instapaper", "linkedin","twitter", "weibo", 
+               "messenger","qq", "qzone","viber","whatsapp"
+           ]
+       }
+
+        
+	    "disqus": {
+	      "shortName": "wuyan"
+	    },
+	    "github": {
+	      "url": "https://github.com/clearboy/wuyan"
+	    },
+	    "editlink": {
+	      "base": "https://github.com/clearboy/wuyan/blob/master/docs",
+	      "label": "编辑本页"
+	    },
+
+	    "sitemap": {
+	        "hostname": "http://xywang.org/"
+	    }
+	  }				
 }
 
 	  

@@ -14,15 +14,10 @@
   - [理解E : 生命体的三端点节肢模型](chapter2/No.07.md)
 
 ## [第三章：理解社会结构](chapter3/README.md)
-  - [08](chapter3/No.08.md)
-  - [09](chapter3/No.09.md)
-  - [10](chapter3/No.10.md)
+
 
 ## [第四章：理解社会规律](chapter4/README.md)
-  - [11](chapter4/No.11.md)
-  - [12](chapter4/No.12.md)
-  - [13](chapter4/No.13.md)
-  - [14](chapter4/No.14.md)
+
 
 ## [第五章：计算机模拟](chapter5/README.md)
 
