@@ -8,8 +8,8 @@
     
     "links" : {
 	    "sidebar" : {
-	    		"王晓钰介绍": "http://xywang.org",
-	        "晓钰说物演通论" : "http://wuyan.xywang.org"
+	        "晓钰说物演通论" : "http://wuyan.xywang.org",
+	    		"个人主页": "http://xywang.org"
 	    }
 		},
 	  "plugins": [
