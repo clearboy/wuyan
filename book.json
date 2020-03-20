@@ -12,17 +12,23 @@
 	    		"个人主页": "http://xywang.org"
 	    }
 		},
+		"styles": {
+		    "website": "styles/website.css",
+		    "ebook": "styles/ebook.css",
+		    "pdf": "styles/pdf.css",
+		    "mobi": "styles/mobi.css",
+		    "epub": "styles/epub.css"
+		},
 	  "plugins": [
+	  	"ancre-navigation",
 	    "hide-element",
 	    "back-to-top-button",
 	    "chapter-fold",
+	    "expandable-chapters",
 	    "splitter",
-      "-lunr", 
-      "-search", 
-      "search-pro",
+      "-lunr", "-search", "search-pro",
       "insert-logo",
       "pageview-count",
-      "tbfed-pagefooter",
 	    "-sharing", "sharing-plus",
 	    "disqus",
 	    "github",
@@ -30,7 +36,10 @@
 	    "prism",
 	    "-highlight",
 	    "sitemap",
-	    "latex-codecogs"
+      "tbfed-pagefooter",
+      "page-copyright",
+	    "latex-codecogs",
+	    "donate"
 	  ],		
 	  "pluginsConfig": {
 	  	"hide-element": {
@@ -73,8 +82,28 @@
 
 	    "sitemap": {
 	        "hostname": "http://xywang.org/"
-	    }
-	  }				
+	    },
+	    "page-copyright": {
+          "description": "modified at",
+          "signature": "晓钰说",
+          "wisdom": "爱哲学、懂管理的技术男",
+          "format": "YYYY-MM-dd hh:mm:ss",
+          "copyright": "Copyright &#169; 王晓钰",
+          "timeColor": "#666",
+          "copyrightColor": "#666",
+          "utcOffset": "8",
+          "style": "normal",
+          "noPowered": false
+        },
+        "donate": {
+            "wechat": "images/微信收款码.png",
+            "alipay": "images/支付宝收款码.png",
+            "title": "",
+            "button": "打赏支持",
+            "alipayText": "支付宝打赏",
+            "wechatText": "微信打赏"
+        }
+    }	
 }
 
 	  
