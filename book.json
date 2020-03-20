@@ -23,7 +23,7 @@
 	  	"ancre-navigation",
 	    "hide-element",
 	    "back-to-top-button",
-	    "expandable-chapters",
+	    "chapter-fold",
 	    "splitter",
       "-lunr", "-search", "search-pro",
       "insert-logo",
