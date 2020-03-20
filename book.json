@@ -8,8 +8,8 @@
     
     "links" : {
 	    "sidebar" : {
-	        "晓钰说物演通论" : "http://wuyan.xywang.org",
-	    		"个人主页": "http://xywang.org"
+	    		"王晓钰个人主页": "http://xywang.org",
+	        "晓钰说物演通论" : "https://wuyan.xywang.org"
 	    }
 		},
 		"styles": {
@@ -49,12 +49,8 @@
       },
       "sharing": {
              "douban": true,
-             "facebook": true,
-             "google": true,
-             "pocket": true,
              "qq": true,
              "qzone": true,
-             "twitter": true,
              "weibo": true,
           "all": [
                "douban", "facebook", "google", "instapaper", "linkedin","twitter", "weibo", 
@@ -76,13 +72,13 @@
       "donate": {
           "wechat": "http://xywang.org/微信收款码.png",
           "alipay": "http://xywang.org/支付宝收款码.png",
-          "title": "支持独立思考",
+          "title": "支持独立思考，探索后工业文明的底层认知",
           "button": "打赏",
           "alipayText": "支付宝打赏",
           "wechatText": "微信打赏"
       },
       "tbfed-pagefooter": {
-            "copyright":"Copyright &copy 王晓钰 2020",
+            "copyright":"独立研究，版权所有 &copy 王晓钰 2020",
             "modify_label": "该文章修订时间：",
             "modify_format": "YYYY年MM月DD日 HH:mm"
       }

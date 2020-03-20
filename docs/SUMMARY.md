@@ -4,7 +4,7 @@
 
 ## [第一章：如何读《物演通论》](chapter1/README.md)
   - [01.从被动学习到主动研究](chapter1/No.01.md)
-  - [02：社会哲学研究什么？](chapter1/No.02.md)
+  - [02. 社会哲学研究什么？](chapter1/No.02.md)
 
 ## [第二章：理解社会个体](chapter2/README.md)
   - [03. 生命是什么？](chapter2/No.03.md)
@@ -14,6 +14,9 @@
   - [07. 理解个体E : 一般生命体的三端点节肢模型](chapter2/No.07.md)
 
 ## [第三章：理解社会结构](chapter3/README.md)
+
+- [08. 如何理解社会结构*S* ？](chapter3/No.08.md)
+- [09. 理解结构 *S*：静态结构的精确表述](chapter3/No.09.md)
 
 
 ## [第四章：理解社会规律](chapter4/README.md)
