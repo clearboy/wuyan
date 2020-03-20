@@ -20,6 +20,7 @@
 		    "epub": "styles/epub.css"
 		},
 	  "plugins": [
+	  	"page-toc-button",
 	  	"ancre-navigation",
 	    "hide-element",
 	    "back-to-top-button",
@@ -46,6 +47,10 @@
       "insert-logo": {
         "url": "http://xywang.org/王晓钰头像.jpg",
         "style": "background: none; max-height: 30px; min-height: 30px"
+      },
+      "page-toc-button": {
+            "maxTocDepth": 2,
+            "minTocSize": 2
       },
       "sharing": {
              "douban": true,
