@@ -7,11 +7,11 @@
   - [02：社会哲学研究什么？](chapter1/No.02.md)
 
 ## [第二章：理解社会个体](chapter2/README.md)
-  - [生命是什么？](chapter2/No.03.md)
-  - [理解个体E : 回望“生命”之源](chapter2/No.04.md)
-  - [理解E : 生命的四个通用子系统](chapter2/No.05.md)
-  - [理解E : 生命体的外部接口(API)](chapter2/No.06.md)
-  - [理解E : 生命体的三端点节肢模型](chapter2/No.07.md)
+  - [03. 生命是什么？](chapter2/No.03.md)
+  - [04. 理解个体E : 回望“生命”之源](chapter2/No.04.md)
+  - [05. 理解个体E : 生命的四个通用子系统](chapter2/No.05.md)
+  - [06. 理解个体E : 生命体的外部接口(API)](chapter2/No.06.md)
+  - [07. 理解个体E : 生命体的三端点节肢模型](chapter2/No.07.md)
 
 ## [第三章：理解社会结构](chapter3/README.md)
 
