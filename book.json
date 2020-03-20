@@ -30,14 +30,12 @@
       "insert-logo",
       "pageview-count",
 	    "-sharing", "sharing-plus",
-	    "disqus",
 	    "github",
 	    "editlink",
 	    "prism",
 	    "-highlight",
 	    "sitemap",
       "tbfed-pagefooter",
-      "page-copyright",
 	    "latex-codecogs",
 	    "donate"
 	  ],		
@@ -50,9 +48,9 @@
         "style": "background: none; max-height: 30px; min-height: 30px"
       },
       "tbfed-pagefooter": {
-            "copyright":"Copyright &copy xywang@xywang.org 2020",
+            "copyright":"Copyright &copy 王晓钰 2020",
             "modify_label": "该文章修订时间：",
-            "modify_format": "YYYY-MM-DD HH:mm:ss"
+            "modify_format": "YYYY年MM月DD日 HH:mm"
       },
       "sharing": {
              "douban": true,
@@ -69,9 +67,6 @@
            ]
        },
         
-	    "disqus": {
-	      "shortName": "wuyan"
-	    },
 	    "github": {
 	      "url": "https://github.com/clearboy/wuyan"
 	    },
@@ -83,26 +78,14 @@
 	    "sitemap": {
 	        "hostname": "http://xywang.org/"
 	    },
-	    "page-copyright": {
-          "description": "modified at",
-          "signature": "晓钰说",
-          "wisdom": "爱哲学、懂管理的技术男",
-          "format": "YYYY-MM-dd hh:mm:ss",
-          "copyright": "Copyright &#169; 王晓钰",
-          "timeColor": "#666",
-          "copyrightColor": "#666",
-          "utcOffset": "8",
-          "style": "normal",
-          "noPowered": false
-        },
-        "donate": {
-            "wechat": "images/微信收款码.png",
-            "alipay": "images/支付宝收款码.png",
-            "title": "",
-            "button": "打赏支持",
-            "alipayText": "支付宝打赏",
-            "wechatText": "微信打赏"
-        }
+      "donate": {
+          "wechat": "http://xywang.org/微信收款码.png",
+          "alipay": "http://xywang.org/支付宝收款码.png",
+          "title": "",
+          "button": "打赏支持",
+          "alipayText": "支付宝打赏",
+          "wechatText": "微信打赏"
+      }
     }	
 }
 
