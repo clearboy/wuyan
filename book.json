@@ -39,9 +39,6 @@
 	    "donate"
 	  ],		
 	  "pluginsConfig": {
-	  	 "mathjax":{
-            "forceSVG": true
-        },
 	  	"hide-element": {
             "elements": [".gitbook-link"]
         },
