@@ -1,7 +1,7 @@
 # 参数N: 如何扩大感知的耦合能力
 
 $$
-𝑆=- \frac{L \cdot N}{R} \cdot \frac{dE}{dt}
+𝑆=-\frac{L\cdot N}{R}\cdot\frac{dE}{dt}
 $$
 
 影响感知能力N的因素：
