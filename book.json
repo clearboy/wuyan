@@ -32,10 +32,10 @@
 	    "github",
 	    "editlink",
 	    "prism",
+	    "mermaid-gb3",
 	    "-highlight",
 	    "sitemap",
       "tbfed-pagefooter",
-      "mathjax",
 	    "donate"
 	  ],		
 	  "pluginsConfig": {
