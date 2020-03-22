@@ -35,7 +35,7 @@
 	    "-highlight",
 	    "sitemap",
       "tbfed-pagefooter",
-      "KaTex",
+      "mathjax",
 	    "donate"
 	  ],		
 	  "pluginsConfig": {
