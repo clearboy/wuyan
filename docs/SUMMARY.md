@@ -27,11 +27,12 @@
 - [14. 代偿损耗参数R：如何减少代偿效应的损耗](chapter4/No.14.md)
 - [15. 感应耦合参数N：如何提高感知的耦合能力](chapter4/No.15.md)
 - [16.感应耦合参数N：如何充分发挥感知力](chapter4/No.16.md)
-- [17.感应能力参数L：如何提高感应力](chapter4/No.17.md)
+- [17.感应能力参数L：感应代偿系数与创新能力](chapter4/No.17.md)
 
+## [第五章：社会学实证验证](chapter5/README.md)
 
-## [第五章：计算机模拟](chapter5/README.md)
+## [第六章：计算机模拟](chapter6/README.md)
 
-## [第六章：企业中的应用](chapter6/README.md)
+## [第七章：企业中的应用](chapter7/README.md)
 
   
