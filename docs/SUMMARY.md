@@ -34,6 +34,7 @@
 ## [第五章：社会学实证验证](chapter5/README.md)
 
 - [20. 流行社会观念演化的具体分析](chapter5/No.20.md)
+- [21. 重演论：人与世界的同构发展](chapter5/No.21.md)
 
 ## [第六章：计算机模拟](chapter6/README.md)
 
