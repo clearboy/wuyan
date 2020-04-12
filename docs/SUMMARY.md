@@ -38,7 +38,9 @@
 - [22. 前瞻与提醒：在实践中发展的哲学](chapter5/No.22.md)
 - [23. 高阶控制论：控制有目的的行为](chapter5/No.23.md)
 
-## [第六章：计算机模拟](chapter6/README.md)
+## [第六章：物演通论基本原理](chapter6/README.md)
+
+- [递弱代偿原理的另一种容易懂的形式](chapter6/No.24.md)
 
 ## [第七章：企业中的应用](chapter7/README.md)
 
